@@ -1,0 +1,24 @@
+input[type=text]{
+    color: white;
+    background-color: black;
+    font-size: 12pt;
+    font-style: oblique;
+}
+input[type=email]{
+    color: white;
+    background-color: black;
+    font-size: 12pt;
+    font-style: oblique;
+}
+input[type=password]{
+    color: white;
+    background-color: black;
+    font-size: 12pt;
+    font-style: oblique;
+}
+input[type=number]{
+    color: white;
+    background-color: black;
+    font-size: 12pt;
+    font-style: oblique;
+}
